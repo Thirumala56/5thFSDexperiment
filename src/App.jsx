@@ -1,7 +1,14 @@
 import './App.css'
 
 function App() {
-return ( <div> <h1>5th FSD Experiment</h1> <h2>Welcome to React</h2> <p>My first React project is running successfully!</p> </div>
+return ( <div> <nav> <h2>5th FSD Experiment</h2> <a href="/">Home</a> <a href="#about">About</a> <a href="#contact">Contact</a> </nav>
+
+```
+  <h1>Welcome to React</h1>
+  <p>Navigation bar created successfully!</p>
+</div>
+```
+
 )
 }
 
